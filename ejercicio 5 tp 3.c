@@ -8,7 +8,7 @@ int resistenciaTotal(int r1,int r2,int r3,int r4,int r5,int rt)
 	printf("el valor de la resistencia total es :%d \n",rt);
 }
 int main() {
-	int r1=0,r2=0,r3=0,r4=0,r5=0,rt=0;
+	int r1=0,r2=0,r3=0,r4=0,r5=0,rt=0;//Estructuras repetitivas para los ingresos.
 	printf("ingrese la resistencia 1:");
 	scanf("%d",&r1);
 	printf("ingrese la resistencia 2:");

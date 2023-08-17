@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-int presion(float num1,float num2,float total){
+int presion(float num1,float num2,float total)//Para que se pasan como argumentos numq y num2???
+{
 	
 	printf("La presion es %f \n ",total);                                                                          
 	

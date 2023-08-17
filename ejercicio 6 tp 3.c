@@ -15,7 +15,7 @@ int main()
 	printf("ingrese un numero ");
 	scanf("%f ",&num);
 	
-	octava=num/8;
+	octava=num/8;//Por que se calcula dos veces?
 	
 	numero(num);
 	
